@@ -1,4 +1,4 @@
-1. ทดสอบการเข้าสู่ระบบวาเข้าสู่ระบบถูกต้องได้หรือไม่พร้อม Cap หน้าจอ
+[playback_10emails_results.json](https://github.com/user-attachments/files/22571913/playback_10emails_results.json)1. ทดสอบการเข้าสู่ระบบวาเข้าสู่ระบบถูกต้องได้หรือไม่พร้อม Cap หน้าจอ
   1.1 มีการเข้าสู่ระบบสำเร็จและไม่สำเร็จ
     login สำเร็จ
     <img width="1000" height="660" alt="login-success-fullpage" src="https://github.com/user-attachments/assets/d2bc169a-7559-4499-a6ac-11e535b182df" />
@@ -22,7 +22,7 @@
 
   2.3 เปลี่ยน Json file ให้ มี ข้อมูล 10 Email ในการทดสอบ 
   result:
-  [
+  [Uploading playback_10e[
   {
     "index": 0,
     "round": 1,
@@ -113,5 +113,6 @@
       "message": "Invalid email or password"
     }
   }
-]
+]mails_results.json…]()
+
 (**ถ้าเข้าใช้งาน web ใหม่ต้องรอ 30 วิ api ถึงจะทำงานปกติ**)
