@@ -7,8 +7,10 @@
 
   1.2 ถ้าเข้าสู่ระบบสำเร็จ Message ขึ้นว่ายังไง ไม่สำเร็จขึ้นว่ายังไง 
   สำเร็จ
+  
   <img width="360" height="46" alt="login-success" src="https://github.com/user-attachments/assets/e1ed9a20-a5a0-4d5a-b04c-b5f5f2f91bbb" />
   ไม่สำเร็จ
+  
   <img width="360" height="46" alt="login-fail" src="https://github.com/user-attachments/assets/722d0170-1280-4f7f-b36e-91b415755f5e" />
 
 3. ทดสอบ Api การสมัครสมาชิกว่ามีการยิง ไปที่ url ไหนบ้าง method อะไรบ้างพร้อม Cap หน้าจอ
