@@ -1,0 +1,122 @@
+[
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test1@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test2@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test3@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test4@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test5@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test6@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test7@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test8@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test9@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  },
+  {
+    "url": "https://robot-lab.onrender.com/api/auth/login",
+    "method": "POST",
+    "requestBody": {
+      "email": "auto_test10@example.com",
+      "password": "password1234"
+    },
+    "responseBody": {
+      "message": "Invalid email or password"
+    },
+    "statusCode": 401
+  }
+]
